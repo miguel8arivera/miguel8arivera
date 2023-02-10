@@ -1,9 +1,7 @@
 <div>
-  <h1 align="center">Hi, I'm Miguel, a self-taught <a href="https://www.linkedin.com/in/miguel-angel-ochoa-rivera-547750208/"><i>Web Developer</i></a> 😃️</h1>
-  <p align="center">I am a web development professional
-
-  </a><br>
-  <p align="center">I'm Miguel, a passionate front-end developer. I like to work on interesting projects, collaborate with other developers and always be up to date in my career. 😉️</h2>
+  <h1 align="center">Hi, I'm Miguel, a self-taught <a href=''><i>Web Developer</i></a> 😃️</h1>
+ 
+  <p align="center">I'm a passionate front-end developer. I like to work on interesting projects, collaborate with other developers and always be up to date in my career. 😉️</h2>
 </div>
 
 
