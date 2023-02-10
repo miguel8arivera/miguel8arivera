@@ -3,7 +3,7 @@
   <p align="center">I am a web development professional
 
   </a><br>
-  <p align="center">I would like to be able to give value to your ideas we begin! 😉️</h2>
+  <p align="center">I'm Miguel, a passionate front-end developer. I like to work on interesting projects, collaborate with other developers and always be up to date in my career. 😉️</h2>
 </div>
 
 
