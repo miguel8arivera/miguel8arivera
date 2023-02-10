@@ -52,7 +52,4 @@
   
 <!-- </div> -->
 
-<div align="center">
-  <p></p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> </p>
-</div>
+
