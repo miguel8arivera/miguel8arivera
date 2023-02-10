@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi, I'm Miguel, a self-taught and <a href="https://www.linkedin.com/in/miguel-angel-ochoa-rivera-547750208/"><i>Web Developer</i></a> 😃️</h1>
+  <h1 align="center">Hi, I'm Miguel, a self-taught <a href="https://www.linkedin.com/in/miguel-angel-ochoa-rivera-547750208/"><i>Web Developer</i></a> 😃️</h1>
   <p align="center">I am a web development professional with a strong focus on the MERN stack you can visit my profile</a> <a href=""><i>Linkedin</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white  " target="_blank" />
