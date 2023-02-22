@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi, I'm Miguel, a self-taught <a target="blank" href='https://www.linkedin.com/in/miguel-angel-ochoa-rivera/'><i>Web Developer</i></a> 😃️</h1>
+  <h1 align="center">Hi, I'm Miguel, a self-taught <a target="_blank" href='https://www.linkedin.com/in/miguel-angel-ochoa-rivera/'><i>Web Developer</i></a> 😃️</h1>
  
   <p align="center">I'm a passionate front-end developer. I like to work on interesting projects, collaborate with other developers and always be up to date in my career. 😉️</h2>
 </div>
